@@ -1,4 +1,4 @@
-# 🌟 StellarVault: AI-Powered RWA Tokenization Platform
+# 🌟 Lumina: AI-Powered RWA Tokenization Platform
 
 > **Building the Future of Asset Tokenization on Stellar Blockchain**
 
@@ -10,7 +10,7 @@
 
 ## 🎯 Project Overview
 
-StellarVault is an AI-powered platform for tokenizing Real-World Assets (RWAs) on the Stellar blockchain. The platform combines cutting-edge AI technology with Stellar's efficient blockchain infrastructure to create a seamless, compliant, and intelligent asset tokenization ecosystem.
+Lumina is an AI-powered platform for tokenizing Real-World Assets (RWAs) on the Stellar blockchain. The platform combines cutting-edge AI technology with Stellar's efficient blockchain infrastructure to create a seamless, compliant, and intelligent asset tokenization ecosystem.
 
 ### 🏆 Key Achievements
 - **Target Market**: $16T RWA tokenization opportunity by 2030
@@ -22,7 +22,7 @@ StellarVault is an AI-powered platform for tokenizing Real-World Assets (RWAs) o
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        StellarVault Platform                    │
+│                        Lumina Platform                    │
 ├─────────────────┬─────────────────┬─────────────────┬──────────-┤
 │   Frontend      │   Backend API   │   AI Engine     │ Contracts │
 │   (Next.js)     │   (Node.js)     │   (Python)      │ (Soroban) │
@@ -338,18 +338,18 @@ npm run build:prod
 npm run deploy:prod
 
 # Health check
-curl https://api.stellarvault.com/health
+curl https://api.Lumina.com/health
 ```
 
 ## 📚 API Documentation
 
 ### REST API
 - **Local**: http://localhost:8000/api/docs
-- **Production**: https://api.stellarvault.com/docs
+- **Production**: https://api.Lumina.com/docs
 
 ### WebSocket API
 - **Real-time Updates**: Asset prices, transaction status, compliance alerts
-- **Connection**: `wss://api.stellarvault.com/ws`
+- **Connection**: `wss://api.Lumina.com/ws`
 
 ### AI Engine API
 - **Local**: http://localhost:8001/docs
@@ -386,10 +386,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Website**: [https://stellarvault.com](https://stellarvault.com)
-- **Email**: [team@stellarvault.com](mailto:team@stellarvault.com)
-- **Twitter**: [@StellarVault](https://twitter.com/stellarvault)
-- **Discord**: [StellarVault Community](https://discord.gg/stellarvault)
+- **Website**: [https://Lumina.com](https://Lumina.com)
+- **Email**: [team@Lumina.com](mailto:team@Lumina.com)
+- **Twitter**: [@Lumina](https://twitter.com/Lumina)
+- **Discord**: [Lumina Community](https://discord.gg/Lumina)
 
 ## 🗺️ Roadmap
 
@@ -416,6 +416,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by the StellarVault Team**
+**Built with ❤️ by the Lumina Team**
 
 *Revolutionizing asset tokenization through the power of AI and Stellar blockchain technology.* 
