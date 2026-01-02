@@ -1,4 +1,4 @@
-# 🌟 Lumina: AI-Powered RWA Tokenization Platform
+# Lumina: AI-Powered RWA Tokenization Platform
 
 > **Building the Future of Asset Tokenization on Stellar Blockchain**
 
@@ -12,7 +12,7 @@
 
 Lumina is an AI-powered platform for tokenizing Real-World Assets (RWAs) on the Stellar blockchain. The platform combines cutting-edge AI technology with Stellar's efficient blockchain infrastructure to create a seamless, compliant, and intelligent asset tokenization ecosystem.
 
-### 🏆 Key Achievements
+### Key Achievements
 - **Target Market**: $16T RWA tokenization opportunity by 2030
 - **Investment Track**: AI x Web3 + Financial Protocols
 - **Development Timeline**: 3-month intensive program
