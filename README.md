@@ -8,7 +8,7 @@
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://rust-lang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 
-## 🎯 Project Overview
+## Project Overview
 
 Lumina is an AI-powered platform for tokenizing Real-World Assets (RWAs) on the Stellar blockchain. The platform combines cutting-edge AI technology with Stellar's efficient blockchain infrastructure to create a seamless, compliant, and intelligent asset tokenization ecosystem.
 
@@ -18,7 +18,7 @@ Lumina is an AI-powered platform for tokenizing Real-World Assets (RWAs) on the 
 - **Development Timeline**: 3-month intensive program
 - **Demo Day Goal**: $1M+ in tokenized assets demonstration
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -42,7 +42,7 @@ Lumina is an AI-powered platform for tokenizing Real-World Assets (RWAs) on the 
                     └─────────────┘  └───────────┘
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -158,7 +158,7 @@ stellar-vault/
 └── 📂 tests/                 # Test suites
 ```
 
-## 🔥 Core Features
+## Core Features
 
 ### 🏦 Asset Tokenization
 - **Multi-Asset Support**: Real Estate, Commodities, Art, Bonds, Infrastructure
